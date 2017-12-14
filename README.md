@@ -9,7 +9,7 @@ Can I Use is a site that shows you the browsers that support what you are trying
 There are many tools to assist with adding prefixes for you, some are online and some are used in build tools. Pleeease Play is a way to automatically generate vendor prefixes based on Autoprefixeres versions. Codepen is an online editor that lets you setup an option to have vendor prefixes inserted into your code.
 
 ## Resources:
-[What is it?](https://developer.mozilla.org/en-US/docs/Glossary/Vendor_Prefix)
+[MDN Documentation](https://developer.mozilla.org/en-US/docs/Glossary/Vendor_Prefix)
 
 [Can I use this feature?](https://caniuse.com/)
 
