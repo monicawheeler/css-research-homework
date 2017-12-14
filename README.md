@@ -10,7 +10,11 @@ There are many tools to assist with adding prefixes for you, some are online and
 
 ## Resources:
 [What is it?](https://developer.mozilla.org/en-US/docs/Glossary/Vendor_Prefix)
+
 [Can I use this feature?](https://caniuse.com/)
+
 [Quick output of vendor prefixes](http://pleeease.io/play/)
+
 [CodePen](codepen.io)
+
 [Browserslist in Autoprefixer](https://github.com/postcss/autoprefixer#browsers)
