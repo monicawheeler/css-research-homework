@@ -15,6 +15,6 @@ There are many tools to assist with adding prefixes for you, some are online and
 
 [Quick output of vendor prefixes](http://pleeease.io/play/)
 
-[CodePen](www.codepen.io)
+[CodePen](https://codepen.io)
 
 [Browserslist in Autoprefixer](https://github.com/postcss/autoprefixer#browsers)
